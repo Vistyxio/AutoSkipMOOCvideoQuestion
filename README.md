@@ -1,0 +1,5 @@
+# AutoSkipMOOCvideoQuestion
+自动跳过中国大学MOOC课件视频中习题
+只有源码
+需要OpenCV和Windows环境
+如果无法自动跳过可以自行截取提交按钮图片代替template.png并重启程序
